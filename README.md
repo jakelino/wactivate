@@ -1,6 +1,6 @@
 ## 🚀Ativador do Windows🚀
 
-⚡ Um instalador seguro, automatizado e robusto para o [Microsoft Activation Scripts (MAS)](https://massgrave.dev), com verificação de integridade e medidas de proteção contra falhas e bloqueios.
+⚡ Um ativador seguro, automatizado e robusto para o [Microsoft Activation Scripts (MAS)](https://massgrave.dev), com verificação de integridade e medidas de proteção contra falhas e bloqueios.
 
 ---
 
