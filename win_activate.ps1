@@ -1,5 +1,3 @@
-win_activate
-
 # Check massgrave.dev for more details
 
 write-host
